@@ -1,6 +1,5 @@
 #Name: @TheBotMir
-#Fun Fact: I Am The Best Streamer on Twitch.Tv/TheBotMir
-
+#Fun Fact: I Am The Best Streamer on Twitch
 space_1 = ' '
 space_2 = '  '
 space_3 = '   '
